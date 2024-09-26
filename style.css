@@ -394,7 +394,7 @@ footer {
 
 
 /*! ---------- Animations ---------- */
-/* @keyframes section-1 {
+ @keyframes section-1 {
   from {
     opacity: 0;
     transform: translateY(-200px);
@@ -539,4 +539,4 @@ footer {
 .animation-0{
   animation: footerAnimation 1.5s both ease-out;
   animation-delay: 4s;
-} */
+}
